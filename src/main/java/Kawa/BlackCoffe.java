@@ -1,4 +1,4 @@
-package SDA;
+package Kawa;
 
 public class BlackCoffe extends CoffeMaker {
 
